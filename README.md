@@ -1,6 +1,6 @@
-## Avengers
+## Avengers  
 El cuartel general de los Avengers para aprender Git y GitHub
 
-## Nota
+## Nota  
 Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 Estoy probando lo que he aprendido
